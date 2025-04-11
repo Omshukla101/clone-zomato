@@ -31,7 +31,7 @@ This project is a simplified clone of Zomato, a popular food delivery and restau
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd [project directory]
+    cd [https://omshukla101.github.io/clone-zomato/index.html]
     ```
 
 3.  **Open `index.html` in your web browser.**
